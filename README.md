@@ -1,8 +1,6 @@
 
 # Hi there, I'm Anupkumar Singh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
 I am a third-year IT Engineering student at Dwarkadas J. Sanghvi College of Engineering, Mumbai, with a passion for software development, data science, and business analytics. I am constantly seeking opportunities to apply my skills and learn new technologies.
 
 ## 🚀 About Me
@@ -50,11 +48,8 @@ I am a third-year IT Engineering student at Dwarkadas J. Sanghvi College of Engi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📈 GitHub Stats
-![Anupkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 📂 Featured Projects
+
 ### [E-Commerce Application using ReactJS and Firebase](https://github.com/yourusername/e-commerce-app)
 A comprehensive E-Commerce platform featuring user and admin login authentication, distinct dashboards, CRUD operations, seamless payment integration, dark mode, chatbot support, and efficient management of orders and products. Utilized Redux Toolkit and Firebase for state management and database operations.
 

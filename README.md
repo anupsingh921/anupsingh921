@@ -46,23 +46,6 @@ I am a final-year IT Engineering student at Dwarkadas J. Sanghvi College of Engi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📂 Featured Projects
-
-### [E-Commerce Application using ReactJS and Firebase](https://github.com/yourusername/e-commerce-app)
-A comprehensive E-Commerce platform featuring user and admin login authentication, distinct dashboards, CRUD operations, seamless payment integration, dark mode, chatbot support, and efficient management of orders and products. Utilized Redux Toolkit and Firebase for state management and database operations.
-
-### [Blood Bank Management System](https://github.com/yourusername/blood-bank-management)
-A Java Swing application using NetBeans IDE and MySQL for efficient blood donation tracking, donor management, and blood distribution. Collaborated in a team of three following SDLC approach.
-
-### [Rainfall Prediction in Australia](https://github.com/yourusername/rain-prediction)
-Built a ML prediction model on classification algorithms like KNN, SVM, Decision Trees, and Logistic Regression, with SVM achieving the highest accuracy of 84.58%.
-
-### [DataX Summarizer Tool](https://github.com/yourusername/datax-summarizer)
-A user-friendly web app that analyzes a dataset using Streamlit and Python libraries such as Scikit Learn and Seaborn. Implemented features include Data Preprocessing, EDA, Data Visualization along with clustering and regression algorithms.
-
-### [Diwali Sales Analysis](https://github.com/yourusername/diwali-sales-analysis)
-Analyzed Diwali sales data to enhance customer experience and improve sales strategies. Identified potential customers across various demographics and best-selling product categories to optimize inventory planning.
-
 ## 📫 How to reach me:
 - Email: [anupsingh4741@gmail.com](mailto:anupsingh4741@gmail.com)
 - LinkedIn: [Anupkumar Singh](https://www.linkedin.com/in/anupkumar-singh-aab8772ba/)

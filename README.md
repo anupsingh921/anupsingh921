@@ -46,9 +46,5 @@ I am a final-year IT Engineering student at Dwarkadas J. Sanghvi College of Engi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📫 How to reach me:
-- Email: [anupsingh4741@gmail.com](mailto:anupsingh4741@gmail.com)
-- LinkedIn: [Anupkumar Singh](https://www.linkedin.com/in/anupkumar-singh-aab8772ba/)
-- Portfolio: [anupkumar-portfolio.com](https://anupsingh921.github.io/)
 
 Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or would like to collaborate on a project!

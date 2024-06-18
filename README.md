@@ -1,5 +1,5 @@
 
-# Hi there, I'm Anupkumar Singh 👋
+# Hello there, I'm Anupkumar Singh 
 
 I am a final-year IT Engineering student at Dwarkadas J. Sanghvi College of Engineering, Mumbai, with a passion for software development, data science, and business analytics. I am constantly seeking opportunities to apply my skills and learn new technologies.
 
